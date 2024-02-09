@@ -1,6 +1,6 @@
-#IML for DUMB
+# IML for DUMB
 
-###**PERCEPTRON ALGORITHM**
+### **PERCEPTRON ALGORITHM**
 
 Immagina che l'algoritmo Perceptron sia come un giudice che deve decidere se una frutta è una mela o una banana basandosi su alcune caratteristiche come il colore, la forma e la consistenza. 
 
